@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://GewooonKenzooo:JYyUxcVPu7moZh9I@multibullybot.dft16as.mongodb.net/?retryWrites=true&w=majority&appName=MultiBullyBOT",
+    "mongodbUri": "",
     "excessCommands": {
         "utility": true,
         "other": true,
